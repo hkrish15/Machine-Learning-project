@@ -1,2 +1,2 @@
 # Machine-Learning-project
-TITANIC SURVIVAL PREDICTION USING MACHINE LEARNING
+Predicting Survival Rate in TITANIC using Python and calculating performance metrics for the same using KNN,SVM,Decision Tree and Random Forest Algos.
